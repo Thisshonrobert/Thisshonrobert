@@ -5,12 +5,8 @@ I'm a Full Stack Developer passionate about building clean, scalable, and user-f
 Currently working with **Next.js**, **React**, **kubernetes**, and **Node**, and exploring cloud infrastructure and AI integrations.  
 I love blending design with functionality — whether it's creating powerful backend systems or dynamic frontend experiences.
 
-🔭 Projects:  
-- [Acethetics](https://acethetics.starzc.com) – Celebrity outfit try-on app using AI and affiliate integration  
-- Custom CRM, dashboard tools, and form-based systems for financial products
-
 💡 Interests:  
-Full-stack development | AI integration | DevOps | Azure Cloud | Japanese language 🇯🇵
+Full-stack development | AI  | DevOps Japanese language 🇯🇵 | System Design | Cloud
 
 📫 Reach me:  
 [LinkedIn](https://www.linkedin.com/in/thisshonrobert) • [Portfolio](https://thisshonrobert.netlify.app) • [Email](mailto:thisshonrobert0205@gmail.com)
